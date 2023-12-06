@@ -5,7 +5,7 @@ import java.sql.PreparedStatement
 class Driver extends App{
   var name: String = "Tata Motors"
   var branch: Int = 10
-  var location: String = "Chennai"
+  var location: String = "mumbai"
 
 //  def drive(): Unit = { //method of the function
 //    println("Have a nice day!")
