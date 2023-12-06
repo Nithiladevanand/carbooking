@@ -1,0 +1,8 @@
+[debug] > Exec(updateSbtClassifiers, None, None)
+[debug] Evaluating tasks: updateSbtClassifiers
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
+[success] Total time: 1 s, completed Nov 22, 2023, 11:06:13 AM
+[debug] > Exec(idea-shell, None, None)
